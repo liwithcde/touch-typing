@@ -1,0 +1,2 @@
+def generStartMenu():
+    pass

@@ -1,0 +1,5 @@
+FontSize:20
+windowWeight:500
+endNum:21
+beepFre:3000
+beepLas:200
